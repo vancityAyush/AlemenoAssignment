@@ -1,6 +1,6 @@
-# flutter_template
+# Alemeno
 
-Flutter Template
+Alemeno Assignment
 
 ## Getting Started
 
